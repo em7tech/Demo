@@ -10,6 +10,7 @@ public class BaseTest {
 	public void setUp() {
 		
 		System.out.println("Initialinzing all ");
+		System.out.println("Change in gitHub");
 	}
 	@AfterSuite
 	public void tearDown() {
